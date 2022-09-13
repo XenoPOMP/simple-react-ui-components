@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-ui-components",
+  "name": "ui-components-react-js",
   "version": "1.0.0",
   "description": "Library of React UI components",
   "main": "index.ts",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/XenoPOMP/simple-react-ui-components.git"
   },
   "author": "XenoPOMP",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/XenoPOMP/simple-react-ui-components/issues"
   },
@@ -21,5 +21,6 @@
     "react": "^18.2.0",
     "react-ionicons": "^4.2.0",
     "sass-loader": "^13.0.2"
-  }
+  },
+  "private": false
 }
