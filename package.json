@@ -1,0 +1,25 @@
+{
+  "name": "simple-react-ui-components",
+  "version": "1.0.0",
+  "description": "Library of React UI components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenoPOMP/simple-react-ui-components.git"
+  },
+  "author": "XenoPOMP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XenoPOMP/simple-react-ui-components/issues"
+  },
+  "homepage": "https://github.com/XenoPOMP/simple-react-ui-components#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "react": "^18.2.0",
+    "react-ionicons": "^4.2.0",
+    "sass-loader": "^13.0.2"
+  }
+}
